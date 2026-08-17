@@ -1,0 +1,50 @@
+# ================================
+# SQL Practice Repository
+# ================================
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# MySQL local files
+*.err
+*.pid
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Python files (if scripts are added later)
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Node.js files (if tooling is added later)
+node_modules/
+
+# Build / generated files
+dist/
+build/
