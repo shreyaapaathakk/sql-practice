@@ -1095,3 +1095,28 @@ Final Query
 ```
 
 ---
+
+# Module 20 Completion Checklist
+
+Before moving on, you should be able to:
+
+* Create multiple CTEs.
+* Make one CTE depend on another.
+* Build a CTE pipeline.
+* Use CTEs with joins.
+* Use CTEs with aggregation.
+* Use CTEs with CASE.
+* Use CTEs with window functions.
+* Solve top-N-per-group problems.
+* Perform multi-stage aggregation.
+* Use recursive CTEs.
+* Generate sequences using recursive CTEs.
+* Traverse hierarchical data.
+* Use CTEs for reporting.
+* Use CTEs for data-quality checks.
+* Decide when a CTE is useful.
+* Understand that CTEs do not automatically improve performance.
+
+By the end of this module, CTEs should no longer be just a syntax feature.
+
+They should become a **SQL problem-solving strategy**.
